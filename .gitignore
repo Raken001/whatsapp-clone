@@ -1,0 +1,13 @@
+docker-compose.yml
+.vscode/
+.idea/
+.DS_Store
+node_modules/
+dist/
+target/
+.angular/
+whatsappclone-frontend/.git/
+whatsappclone-frontend/node_modules/
+whatsappclone-frontend/dist/
+whatsappclone/.mvn/wrapper/maven-wrapper.jar
+
