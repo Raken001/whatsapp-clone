@@ -2,3 +2,22 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 @import "@fortawesome/fontawesome-free/css/all.min.css";
 // todo add emoji
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /*font-family: 'Poppins', sans-serif;*/
+}
+
+body {
+  background-color: #ccc;
+}
+
+.gray-bg {
+  background-color: #f0f2f5;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
